@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "eb9688608e3c68f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7fc923ef57cc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867f0b2e63ce0f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33948f2e16a150f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc1f31909552e3e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95ce2da9eac0c8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27b708b4802df983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fce667d80500dc1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8699096870ac7db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1fa22e6f90588cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56995eb484e13fb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "434887913defaac1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a9ab5ab64f9781a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50cba208c41047d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "psychology/introduction/分析式思考.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "867f0b2e63ce0f77",
+  "lastOpenFiles": [
+    "psychology/introduction/自我.md",
+    "psychology/introduction/自我知覺理論.md",
+    "psychology/introduction/自我概念的文化差異.md",
+    "psychology/introduction/自我基模.md",
+    "psychology/introduction/自我察覺理論.md",
+    "psychology/introduction/自我瞭解：我是什麼樣的人A.md",
+    "psychology/introduction/自我瞭解：我是什麼樣的人B.md",
+    "psychology/introduction/自動化思考.md",
+    "psychology/introduction/自證式預言.md",
+    "psychology/introduction/事件基模.md"
+  ]
+}
